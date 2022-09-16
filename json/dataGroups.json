@@ -1,0 +1,74 @@
+[
+    {
+        "grupo": "A",
+        "e1": "QATAR",
+        "e2": "ECUADOR",
+        "fecha": "Domingo 20 de Noviembre - 13:00hs."        
+    },
+    {
+        "grupo": "A",
+        "e1": "SENEGAL",
+        "e2": "PAISES BAJOS",
+        "fecha": "Lunes 21 de Noviembre - 13:00hs."
+    },
+    {
+        "grupo": "A",
+        "e1": "QATAR",
+        "e2": "SENEGAL",
+        "fecha": "Viernes 25 de Noviembre - 10:00hs."        
+    },
+    {
+        "grupo": "A",
+        "e1": "PAISES_BAJOS",
+        "e2": "ECUADOR",
+        "fecha": "Viernes 25 de Noviembre - 13:00hs."        
+    },
+    {
+        "grupo": "A",
+        "e1": "PAISES_BAJOS",
+        "e2": "QATAR",
+        "fecha": "Martes 29 de Noviembre - 12:00hs."        
+    },
+    {
+        "grupo": "A",
+        "e1": "ECUADOR",
+        "e2": "SENEGAL",
+        "fecha": "Martes 29 de Noviembre - 12:00hs."        
+    },
+    {
+        "grupo": "B",
+        "e1": "INGLATERRA",
+        "e2": "IRAN",
+        "fecha": "Lunes 21 de Noviembre - 10:00hs."
+    },
+    {
+        "grupo": "B",
+        "e1": "ESTADOS UNIDOS",
+        "e2": "GALES",
+        "fecha": "Lunes 21 de Noviembre - 16:00hs."
+    },
+    {
+        "grupo": "B",
+        "e1": "GALES",
+        "e2": "IRAN",
+        "fecha": "Viernes 25 de Noviembre - 07:00hs."
+    },
+    {
+        "grupo": "B",
+        "e1": "INGLATERRA",
+        "e2": "ESTADOS UNIDOS",
+        "fecha": "Viernes 25 de Noviembre - 16:00hs."
+    },
+    {
+        "grupo": "B",
+        "e1": "IRAN",
+        "e2": "ESTADOS UNIDOS",
+        "fecha": "Viernes 25 de Noviembre - 16:00hs."
+    },
+    {
+        "grupo": "B",
+        "e1": "GALES",
+        "e2": "INGLATERRA",
+        "fecha": "Lunes 29 de Noviembre - 16:00hs."
+    }
+]

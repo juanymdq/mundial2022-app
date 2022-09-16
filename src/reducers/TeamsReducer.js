@@ -1,7 +1,8 @@
-import { GET_DATA_TEAMS } from "../types"
+import { GET_DATA_CALENDAR, GET_DATA_TEAMS } from "../types"
 
 export const initialState = {
-    teams: [],
+    equipos: [],
+    calendar: [],
     isSuccess: false,
     isError: false
 }
@@ -11,9 +12,15 @@ export default function TeamsReducer(state = initialState, action) {
         case GET_DATA_TEAMS: {
             return {
                 ...state,
-                teams: action.payload,
+                equipos: action.payload,
                 isSuccess: true,
                 isError: false
+            }
+        }
+        case GET_DATA_CALENDAR: {
+            return {
+                ...state,
+                calendar: action.payload
             }
         }
         default:    

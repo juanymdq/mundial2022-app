@@ -1,0 +1,194 @@
+[
+    {
+      "id": 1,
+      "name" : "ALEMANIA",          
+      "image" : "alemania.png",
+      "grupo": "E"
+    },
+    {
+      "id": 2,
+      "name" : "ARABIA SAUDITA",    
+      "image" : "arabia_saudita.png",
+      "grupo": "C"
+    },
+    {
+      "id": 3,
+      "name" : "ARGENTINA",    
+      "image" : "argentina.png",
+      "grupo": "C"
+    },
+    {
+      "id": 4,
+      "name" : "AUSTRALIA",
+      "image" : "australia.png",
+      "grupo": "D"
+    },
+    {
+      "id": 5,
+      "name" : "BELGICA",    
+      "image" : "belgica.png",
+      "grupo": "F"  
+    },
+    {
+      "id": 6,
+      "name" : "BRASIL",    
+      "image" : "brasil.png",
+      "grupo": "G"
+    },
+    {
+      "id": 7,
+      "name" : "CAMERUN",    
+      "image" : "camerun.png",
+      "grupo": "G"
+    },
+    {
+      "id": 8,
+      "name" : "CANADA",    
+      "image" : "canada.png",
+      "grupo": "F"  
+    },
+    {
+      "id": 9,
+      "name" : "COREA DEL SUR",    
+      "image" : "corea_del_sur.png",
+      "grupo": "H"  
+    },
+    {
+      "id": 10,
+      "name" : "COSTA RICA",
+      "image" : "costa_rica.png",
+      "grupo": "E"
+    },
+    {
+      "id": 11,
+      "name" : "CROACIA",
+      "image" : "croacia.png",
+      "grupo": "F"
+    },
+    {
+      "id": 12,
+      "name" : "DINAMARCA",
+      "image" : "dinamarca.png",
+      "grupo": "D"
+    },
+    {
+      "id": 13,
+      "name" : "ECUADOR",
+      "image" : "ecuador.png",
+      "grupo": "A"
+    },
+    {
+      "id": 14,
+      "name" : "ESTADOS UNIDOS",
+      "image" : "eeuu.png",
+      "grupo": "B"
+    },
+    {
+      "id": 15,
+      "name" : "ESPAÑA",
+      "image" : "españa.png",
+      "grupo": "E"
+    },
+    {
+      "id": 16,
+      "name" : "FRANCIA",
+      "image" : "francia.png",
+      "grupo": "D"
+    },
+    {
+      "id": 17,
+      "name" : "GALES",
+      "image" : "gales.png",
+      "grupo": "B"
+    },
+    {
+      "id": 18,
+      "name" : "GHANA",
+      "image" : "ghana.png",
+      "grupo": "H"
+    },
+    {
+      "id": 19,
+      "name" : "INGLATERRA",
+      "image" : "inglaterra.png",
+      "grupo": "B"
+    },
+    {
+      "id": 20,
+      "name" : "IRAN",
+      "image" : "iran.png",
+      "grupo": "B" 
+    },
+    {
+      "id": 21,
+      "name" : "JAPON",
+      "image" : "japon.png",
+      "grupo": "E"
+    },
+    {
+      "id": 22,
+      "name" : "MARRUECOS",
+      "image" : "marruecos.png",
+      "grupo": "F"
+    },
+    {
+      "id": 23,
+      "name" : "MEXICO",
+      "image" : "mexico.png",
+      "grupo": "C"
+    },
+    {
+      "id": 24,
+      "name" : "PAISES BAJOS",
+      "image" : "paises_bajos.png",
+      "grupo": "A"
+    },
+    {
+      "id": 25,
+      "name" : "POLONIA",
+      "image" : "polonia.png",
+      "grupo": "C"
+    },
+    {
+      "id": 26,
+      "name" : "PORTUGAL",
+      "image" : "portugal.png",
+      "grupo": "H"
+    },
+    {
+      "id": 27,
+      "name" : "QATAR",
+      "image" : "qatar.png",
+      "grupo": "A"
+    },
+    {
+      "id": 28,
+      "name" : "SENEGAL",
+      "image" : "senegal.png",
+      "grupo": "A"
+    },
+    {
+      "id": 29,
+      "name" : "SERBIA",
+      "image" : "serbia.png",
+      "grupo": "G"
+    },
+    {
+      "id": 30,
+      "name" : "SUIZA",
+      "image" : "suiza.png",
+      "grupo": "G"
+    },
+    {
+      "id": 31,
+      "name" : "TUNEZ",
+      "image" : "tunez.png",
+      "grupo": "D"
+    },
+    {
+      "id": 32,
+      "name" : "URUGUAY",
+      "image" : "uruguay.png",
+      "grupo": "H"
+    }
+  ]

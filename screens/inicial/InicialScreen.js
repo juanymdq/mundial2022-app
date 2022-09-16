@@ -20,7 +20,7 @@ const InicialScreen = ({ navigation }) => {
     setTimeout(() => { 
         navigation.navigate('MainScreen')
     
-    }, 5000)             
+    }, 1000)             
   }
 
   return (

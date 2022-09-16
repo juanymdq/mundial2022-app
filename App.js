@@ -13,6 +13,7 @@ import InicialScreen from './screens/inicial/InicialScreen'
 import MainScreen from './screens/Main/MainScreen'
 import LogOutScreen from './screens/salir/LogOutScreen'
 import Calendario from './screens/fixture/Calendario'
+import Posiciones from './screens/fixture/Posiciones'
 
 import store from './src/store'
 
@@ -31,6 +32,7 @@ export default function App() {
         <AppStack.Screen name="Inicial" component={InicialScreen} />
         <AppStack.Screen name="MainScreen" component={MainScreen} />
         <AppStack.Screen name="Calendario" component={Calendario} />
+        <AppStack.Screen name="Posiciones" component={Posiciones} />
         <AppStack.Screen name="LogOutScreen" component={LogOutScreen} />
       </AppStack.Navigator>
     </NavigationContainer>      
