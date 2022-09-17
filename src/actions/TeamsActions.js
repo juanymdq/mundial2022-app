@@ -5,10 +5,10 @@ import dataCalendar from '../../json/dataGroups.json'
 
 export const getTeams = () => ({ type: GET_DATA_TEAMS, payload: dataTeams})
 
-export const changePassword = (grupo)  => {
+export const getCalendar = (grupo)  => (dispatch) => {
   
     const equipos = dataCalendar.filter(item => item.grupo == grupo)
     dispatch({ type: GET_DATA_CALENDAR, payload: equipos})
 }
 
-export const getCalendar = () => ({ type: GET_DATA_CALENDAR, payload: dataCalendar})
+//export const getCalendar = () => ({ type: GET_DATA_CALENDAR, payload: dataCalendar})

@@ -1,74 +1,339 @@
 [
     {
+        "id": 1,
         "grupo": "A",
         "e1": "QATAR",
         "e2": "ECUADOR",
         "fecha": "Domingo 20 de Noviembre - 13:00hs."        
     },
     {
+        "id": 2,
         "grupo": "A",
         "e1": "SENEGAL",
         "e2": "PAISES BAJOS",
         "fecha": "Lunes 21 de Noviembre - 13:00hs."
     },
     {
+        "id": 3,
         "grupo": "A",
         "e1": "QATAR",
         "e2": "SENEGAL",
         "fecha": "Viernes 25 de Noviembre - 10:00hs."        
     },
     {
+        "id": 4,
         "grupo": "A",
         "e1": "PAISES_BAJOS",
         "e2": "ECUADOR",
         "fecha": "Viernes 25 de Noviembre - 13:00hs."        
     },
     {
+        "id": 5,
         "grupo": "A",
         "e1": "PAISES_BAJOS",
         "e2": "QATAR",
         "fecha": "Martes 29 de Noviembre - 12:00hs."        
     },
     {
+        "id": 6,
         "grupo": "A",
         "e1": "ECUADOR",
         "e2": "SENEGAL",
         "fecha": "Martes 29 de Noviembre - 12:00hs."        
     },
     {
+        "id": 1,
         "grupo": "B",
         "e1": "INGLATERRA",
         "e2": "IRAN",
         "fecha": "Lunes 21 de Noviembre - 10:00hs."
     },
     {
+        "id": 2,
         "grupo": "B",
         "e1": "ESTADOS UNIDOS",
         "e2": "GALES",
         "fecha": "Lunes 21 de Noviembre - 16:00hs."
     },
     {
+        "id": 3,
         "grupo": "B",
         "e1": "GALES",
         "e2": "IRAN",
         "fecha": "Viernes 25 de Noviembre - 07:00hs."
     },
     {
+        "id": 4,
         "grupo": "B",
         "e1": "INGLATERRA",
         "e2": "ESTADOS UNIDOS",
         "fecha": "Viernes 25 de Noviembre - 16:00hs."
     },
     {
+        "id": 5,
         "grupo": "B",
         "e1": "IRAN",
         "e2": "ESTADOS UNIDOS",
         "fecha": "Viernes 25 de Noviembre - 16:00hs."
     },
     {
+        "id": 6,
         "grupo": "B",
         "e1": "GALES",
         "e2": "INGLATERRA",
         "fecha": "Lunes 29 de Noviembre - 16:00hs."
+    },
+
+    {
+        "id": 1,
+        "grupo": "C",
+        "e1": "ARGENTINA",
+        "e2": "ARABIA SAUDITA",
+        "fecha": "Martes 22 de Noviembre - 07:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "C",
+        "e1": "MEXICO",
+        "e2": "POLONIA",
+        "fecha": "Martes 22 de Noviembre - 13:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "C",
+        "e1": "POLONIA",
+        "e2": "ARABIA SAUDITA",
+        "fecha": "Sábado 26 de Noviembre 10:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "C",
+        "e1": "ARGENTINA",
+        "e2": "MEXICO",
+        "fecha": "Sábado 26 de Noviembre 16:00hs."
+    },    
+    {
+        "id": 5,
+        "grupo": "C",
+        "e1": "ARABIA SAUDITA",
+        "e2": "MEXICO",
+        "fecha": "Miércoles 30 de Noviembre 16:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "C",
+        "e1": "POLONIA",
+        "e2": "ARGENTINA",
+        "fecha": "Miércoles 30 de Noviembre 16:00hs."
+    },
+    {
+        "id": 1,
+        "grupo": "D",
+        "e1": "DINAMARCA",
+        "e2": "TUNEZ",
+        "fecha": "Martes 22 de Noviembre - 10:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "D",
+        "e1": "FRANCIA",
+        "e2": "AUSTRALIA",
+        "fecha": "Martes 22 de Noviembre - 16:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "D",
+        "e1": "TUNEZ",
+        "e2": "AUSTRALIA",
+        "fecha": "Sábado 26 de Noviembre 07:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "D",
+        "e1": "FRANCIA",
+        "e2": "DINAMARCA",
+        "fecha": "Sábado 26 de Noviembre 13:00hs."
+    },
+    {
+        "id": 5,
+        "grupo": "D",
+        "e1": "TUNEZ",
+        "e2": "FRANCIA",
+        "fecha": "Miércoles 30 de Noviembre 12:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "D",
+        "e1": "AUSTRALIA",
+        "e2": "DINAMARCA",
+        "fecha": "Miércoles 30 de Noviembre 12:00hs."
+    },
+    {
+        "id": 1,
+        "grupo": "E",
+        "e1": "ALEMANIA",
+        "e2": "JAPON",
+        "fecha": "Miércoles 23 de Noviembre 10:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "E",
+        "e1": "ESPAÑA",
+        "e2": "COSTA RICA",
+        "fecha": "Miércoles 23 de Noviembre 13:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "E",
+        "e1": "JAPON",
+        "e2": "COSTA RICA",
+        "fecha": "Domingo 27 de Noviembre - 07:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "E",
+        "e1": "ESPAÑA",
+        "e2": "ALEMANIA",
+        "fecha": "Domingo 27 de Noviembre - 16:00hs."
+    },
+    {
+        "id": 5,
+        "grupo": "E",
+        "e1": "COSTA RICA",
+        "e2": "ALEMANIA",
+        "fecha": "Jueves 1 de Diciembre 16:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "E",
+        "e1": "JAPON",
+        "e2": "ESPAÑA",
+        "fecha": "Jueves 1 de Diciembre 16:00hs."
+    },
+    {
+        "id": 1,
+        "grupo": "F",
+        "e1": "MARRUECOS",
+        "e2": "CROACIA",
+        "fecha": "Miércoles 23 de Noviembre 07:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "F",
+        "e1": "BELGICA",
+        "e2": "CANADA",
+        "fecha": "Miércoles 23 de Noviembre 16:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "F",
+        "e1": "BELGICA",
+        "e2": "MARRUECOS",
+        "fecha": "Domingo 27 de Noviembre - 10:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "F",
+        "e1": "CROACIA",
+        "e2": "CANADA",
+        "fecha": "Domingo 27 de Noviembre - 13:00hs."
+    },
+    {
+        "id": 5,
+        "grupo": "F",
+        "e1": "CANADA",
+        "e2": "MARRUECOS",
+        "fecha": "Jueves 1 de Diciembre 12:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "F",
+        "e1": "CROACIA",
+        "e2": "BELGICA",
+        "fecha": "Jueves 1 de Diciembre 12:00hs."
+    },
+    {
+        "id": 1,
+        "grupo": "G",
+        "e1": "SUIZA",
+        "e2": "CAMERUN",
+        "fecha": "Jueves 24 de Noviembre 07:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "G",
+        "e1": "BRASIL",
+        "e2": "SERBIA",
+        "fecha": "Jueves 24 de Noviembre 16:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "G",
+        "e1": "CAMERUN",
+        "e2": "SERBIA",
+        "fecha": "Lunes 28 de Noviembre - 07:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "G",
+        "e1": "BRASIL",
+        "e2": "SUIZA",
+        "fecha": "Lunes 28 de Noviembre - 13:00hs."
+    },
+    {
+        "id": 5,
+        "grupo": "G",
+        "e1": "CAMERUN",
+        "e2": "BRASIL",
+        "fecha": "Viernes 2 de Diciembre - 16:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "G",
+        "e1": "SERBIA",
+        "e2": "SUIZA",
+        "fecha": "Viernes 2 de Diciembre - 16:00hs."
+    },
+    {
+        "id": 1,
+        "grupo": "H",
+        "e1": "URUGUAY",
+        "e2": "COREA DEL SUR",
+        "fecha": "Jueves 24 de Noviembre 10:00hs."
+    },
+    {
+        "id": 2,
+        "grupo": "H",
+        "e1": "PORTUGAL",
+        "e2": "GHANA",
+        "fecha": "Jueves 24 de Noviembre 13:00hs."
+    },
+    {
+        "id": 3,
+        "grupo": "H",
+        "e1": "COREA DEL SUR",
+        "e2": "GHANA",
+        "fecha": "Lunes 28 de Noviembre - 10:00hs."
+    },
+    {
+        "id": 4,
+        "grupo": "H",
+        "e1": "PORTUGAL",
+        "e2": "URUGUAY",
+        "fecha": "Lunes 28 de Noviembre - 16:00hs."
+    },
+    {
+        "id": 5,
+        "grupo": "H",
+        "e1": "COREA DEL SUR",
+        "e2": "PORTUGAL",
+        "fecha": "Viernes 2 de Diciembre - 12:00hs."
+    },
+    {
+        "id": 6,
+        "grupo": "H",
+        "e1": "GHANA",
+        "e2": "URUGUAY",
+        "fecha": "Viernes 2 de Diciembre - 12:00hs."
     }
 ]
